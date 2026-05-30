@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a 2nd-year **Electronics and Communication Engineering** student at Shri Vishnu Engineering College for Women, Bhimavaram, specializing in **Edge AI, Computer Vision, and Embedded Systems**.
+I'm a 4th-year **Electronics and Communication Engineering** student at Shri Vishnu Engineering College for Women, Bhimavaram, specializing in **Edge AI, Computer Vision, and Embedded Systems**.
 
 - 🔬 **2 IEEE Publications** — WAMS 2026 & ICEARS 2026
 - 🏭 **Edge AI Intern** at Edgeyentra — real-time embedded systems & hardware deployment
