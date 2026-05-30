@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a 4th-year **Electronics and Communication Engineering** student at Shri Vishnu Engineering College for Women, Bhimavaram, specializing in **Edge AI, Computer Vision, and Embedded Systems**.
+I'm a 4th-year **Electronics and Communication Engineering** student at Shri Vishnu Engineering College for Women, Bhimavaram, specializing in **Edge AI, Computer Vision, and Data Analysis**.
 
 - 🔬 **2 IEEE Publications** — WAMS 2026 & ICEARS 2026
 - 🏭 **Edge AI Intern** at Edgeyentra — real-time embedded systems & hardware deployment
@@ -163,7 +163,7 @@ I'm a 4th-year **Electronics and Communication Engineering** student at Shri Vis
 ## 🤝 Open to Opportunities
 
 I'm actively looking for **internships and research opportunities** in:
-- Machine Learning , Computer Vision, Data Analyst Roles
+- Machine Learning , Computer Vision, Data Analysis
 - Edge AI & Embedded Systems
 - AI for Healthcare, Smart Cities, or Industrial Automation
 
